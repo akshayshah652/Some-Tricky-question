@@ -1,1 +1,1 @@
-# Some-Tricky-question
+# Some-Tricky-algorithm questions
